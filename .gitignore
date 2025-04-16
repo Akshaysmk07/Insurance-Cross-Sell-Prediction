@@ -1,0 +1,11 @@
+# Ignore model directory
+model/
+
+# Ignore MLflow runs
+mlruns/
+
+# Ignore ML artifacts directory
+mlartifacts/
+
+# Ignore zipped model file
+model.zip
