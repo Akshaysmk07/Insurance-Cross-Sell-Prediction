@@ -92,9 +92,8 @@ An interactive web app is developed using **Streamlit** to:
 | ML Models       | Scikit-learn, XGBoost, Random Forest             |
 | Web App         | Streamlit                                        |
 | Serialization   | Joblib                                           |
-| Deployment      | (Optional) Heroku, Docker, Streamlit Cloud       |
+| Deployment      | Streamlit Cloud                                  |
 
 ---
 
-## 📁 Project Structure
 
