@@ -9,3 +9,6 @@ mlartifacts/
 
 # Ignore zipped model file
 model.zip
+
+# Ignore virtual environment folder
+venv/
